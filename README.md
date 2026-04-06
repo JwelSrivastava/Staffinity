@@ -1,1 +1,1 @@
-## Employee Management Website made with MERN
+## Employee Management Website
