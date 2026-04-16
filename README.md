@@ -6,3 +6,4 @@ Project Setup:
 
     Step 1: Made frontend folder and intiate the project using command npm create vite@latest
     Step 2: Add Tailwind using command npm install tailwindcss @tailwindcss/vite
+    Step 3: Fix the files in frontend folder
